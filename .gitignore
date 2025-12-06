@@ -9,6 +9,6 @@ debug*
 # Virtual environments
 /*venv*
 # Legacy configs taken from NP
-/NP_DATA/*
+/NP_DATA/.gitkeep
 # Pycharm project files
 /.idea
