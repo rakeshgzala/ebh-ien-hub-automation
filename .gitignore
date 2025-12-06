@@ -1,0 +1,14 @@
+# output files
+/* - Files
+# zip files the user creates
+*.zip
+# Debug files
+debug*
+# CIQs
+*.xlsx
+# Virtual environments
+/*venv*
+# Legacy configs taken from NP
+/NP_DATA/*
+# Pycharm project files
+/.idea
