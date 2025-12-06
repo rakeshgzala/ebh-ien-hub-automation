@@ -2,8 +2,8 @@
 #############################################################################
 ### This script was created for use with the Verizon Wireless EBH team.   ###
 ### Authors:                                                              ###
-### Anthony Sylvester (ansylves@cisco)                                    ###
-### Yigal Dekalo (ydekel@cisco.com)                                       ###
+### Rakesh Zala                                                           ###
+###                                                                       ###
 #############################################################################
 '''
 
